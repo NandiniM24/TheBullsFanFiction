@@ -1,6 +1,6 @@
 # TheBullsFanFiction
 
-#Goal:​
+**Goal:**​
 
 The project aims to be the one-stop shop for fan fiction. It will bring readers and their stories together, while building a supportive community where creators can thrive.​
 
